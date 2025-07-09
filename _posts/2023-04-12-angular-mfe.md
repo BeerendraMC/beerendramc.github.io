@@ -157,6 +157,8 @@ Note: since the events emitted by the custom elements are of type [`CustomEvent`
 </html>
 ```
 
+Note: updated example for Angular 19+ [github repo](https://github.com/BeerendraMC/angular-mfe-demo){:target="_blank"}
+
 # Deployment and Versioning Options
 
 There are several deployment options available for micro frontends built using web components, regardless of the specific framework used to build them. Here are a few:
